@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Ameer
 - 👀 I’m interested in Learning new stuff and playing crickt :)
-- 🌱 I’m currently TypeScript
+- 🌱 I’m currently Learning Next js
 - 💞️ I’m looking to collaborate on JavaScript
 - 📫 How to reach me abdulameer444@gmail.com
 
